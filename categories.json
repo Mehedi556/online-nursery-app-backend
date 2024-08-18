@@ -1,0 +1,36 @@
+[{
+  "title": "Flower Plant",
+  "heading": "Enchanting Flowers for Every Garden",
+  "description": "Discover our wide variety of vibrant and fragrant flowers that can transform any garden into a colorful paradise. From annuals to perennials, find the perfect blooms to suit your style and climate.",
+  "imageUrl": "https://i.ibb.co/NtxbcJv/flowers.jpg"
+},
+{
+  "title": "Fruit Plant",
+  "heading": "Delicious and Nutritious Fruit Plants",
+  "description": "Grow your own fresh and tasty fruits with our selection of fruit plants. From juicy berries to exotic tropical fruits, we offer a variety of plants that will provide you with a bountiful harvest and enhance your garden's beauty.",
+  "imageUrl": "https://i.ibb.co/vXgXzTD/fruits.jpg"
+},
+{
+  "title": "Indoor Plant",
+  "heading": "Beautiful Indoor Plants for Every Space",
+  "description": "Bring the outdoors inside with our collection of indoor plants. Perfect for any room, our indoor plants add a touch of greenery and improve air quality, making your home a healthier and more inviting place.",
+  "imageUrl": "https://i.ibb.co/rmZyTP1/indoor.jpg"
+},
+{
+  "title": "Outdoor Plant",
+  "heading": "Stunning Outdoor Plants for Your Garden",
+  "description": "Enhance your outdoor living space with our range of outdoor plants. Whether you’re looking for hardy shrubs, climbing vines, or decorative grasses, we have the perfect plants to create a stunning and sustainable garden.",
+  "imageUrl": "https://i.ibb.co/4F0drWS/outdoor.jpg"
+},
+{
+  "title": "Medicine & Herbal Plant",
+  "heading": "Medicinal and Culinary Herbs for Your Garden",
+  "description": "Explore our selection of medicinal and culinary herbs that offer both health benefits and flavor to your cooking. Grow your own natural remedies and fresh herbs to enhance your well-being and culinary creations.",
+  "imageUrl": "https://i.ibb.co/R3PkQFH/medicin.jpg"
+},
+{
+  "title": "Larger Woody Plant",
+  "heading": "Majestic Wooden Trees for Lasting Beauty",
+  "description": "Add structure and shade to your landscape with our variety of wooden trees. From stately oaks to elegant maples, our trees are perfect for creating a lasting impression and providing a habitat for wildlife.",
+  "imageUrl": "https://i.ibb.co/7rJwMxw/wooden.jpg"
+}]

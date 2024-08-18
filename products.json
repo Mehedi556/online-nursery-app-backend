@@ -1,0 +1,80 @@
+[{
+  "title": "Lily Tree",
+  "category": "Flower Plant",
+  "price": 567,
+  "quantity": 0,
+  "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors",
+  "rating": 5,
+  "image": "https://img.freepik.com/free-photo/close-up-transplanting-process-plants_23-2149080729.jpg?t=st=1723009349~exp=1723012949~hmac=3ec345b41ba8eb13b512330b4f715a7f8467d0021972c2d7ca955425a13228b6&w=1380",
+  "__v": 0
+},
+{
+  "title": "Pillow tree",
+  "category": "Indoor Plant",
+  "price": 999,
+  "quantity": 19,
+  "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors",
+  "rating": 4,
+  "image": "https://img.freepik.com/free-photo/plants-gardening-tools-close-up_23-2148905246.jpg?t=st=1723009489~exp=1723013089~hmac=b8bfa803a06d6a9927a5961bd0da26b3bba757ecc6cd99589a68ec235ac8514a&w=996",
+  "__v": 0
+},
+{
+  "title": "Rose plant",
+  "category": "Flower Plant",
+  "price": 345,
+  "quantity": 58,
+  "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors",
+  "rating": 5,
+  "image": "https://img.freepik.com/free-photo/red-rose-flower-with-water-drops_181624-18359.jpg?t=st=1723009534~exp=1723013134~hmac=1a6c568052d936f1ca8bcff9435cb15ed4b69bc585d848f28305718e8db6e480&w=740",
+  "__v": 0
+},
+{
+  "title": "Cherry Blossom",
+  "category": "Flower Plant",
+  "price": 34,
+  "quantity": 3455,
+  "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors",
+  "rating": 4,
+  "image": "https://img.freepik.com/free-photo/pink-cherry-blossom-flowers-blooming-tree-with-blurry-background-spring_181624-34309.jpg?t=st=1723009604~exp=1723013204~hmac=efa05a76d6666b16dd103bd657ddec539be72f39c013bdbafd5d4e260cc41e91&w=1380",
+  "__v": 0
+},
+{
+  "title": "Lemon Tree",
+  "category": "Fruit Plant",
+  "price": 43,
+  "quantity": 356,
+  "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors",
+  "rating": 4,
+  "image": "https://img.freepik.com/free-photo/young-woman-garden-harvest-orange-garden_1150-20341.jpg?t=st=1723009828~exp=1723013428~hmac=da7c7df807fa4ea5885adc56c384dd73d5346aa8471585154b5a42604e493b3a&w=1380",
+  "__v": 0
+},
+{
+  "title": "Olive Tree",
+  "category": "Medicine & Herbal Plant",
+  "price": 344,
+  "quantity": 564,
+  "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors",
+  "rating": 3,
+  "image": "https://img.freepik.com/free-photo/arbor-day-celebration-with-little-tree_23-2149391936.jpg?t=st=1723009777~exp=1723013377~hmac=23cfc13e752dc4863fa78072b55e071cad14e7dc694845d1b09f3772551175f4&w=740",
+  "__v": 0
+},
+{
+  "title": "Maple tree",
+  "category": "Larger Woody Plant",
+  "price": 34,
+  "quantity": 35,
+  "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors",
+  "rating": 4,
+  "image": "https://img.freepik.com/free-photo/scenery-usa-nature-vegetation_23-2149870999.jpg?t=st=1723009717~exp=1723013317~hmac=797bbede6ec0c4e64d0020710ad0a86c0b37fb521d8a8616214423d99ddf776a&w=1380",
+  "__v": 0
+},
+{
+  "title": "Oak tree",
+  "category": "Larger Woody Plant",
+  "price": 64,
+  "quantity": 45,
+  "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors",
+  "rating": 3,
+  "image": "https://img.freepik.com/free-photo/green-leaf-with-water-drop-black-background_231208-8160.jpg?t=st=1723009668~exp=1723013268~hmac=e38ac4d8fdbbe3e774491dbf5bff6c34fc89c2176f69449a08a3d139b9fe41f9&w=1380",
+  "__v": 0
+}]
