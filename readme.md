@@ -1,7 +1,7 @@
 # Nursery Application Backend
 
 Project live link:
-https://sports-facility-booking-nine.vercel.app
+https://nursery-app-backend.vercel.app
 
 It's a Node.js application built with Node.js, Express.js and TypeScript.
 
@@ -20,6 +20,7 @@ Secondly install all the dependencies by write in the terminal
     npm install 
 
 
+## It will be helpful for you if you add product data and category data to your MongoDB compass that I have added in products.json and categories.json
 
 
 To run the application in development mode, use the following command: 
